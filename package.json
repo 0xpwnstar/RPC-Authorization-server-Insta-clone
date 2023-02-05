@@ -1,0 +1,19 @@
+{
+  "name": "auth-server",
+  "version": "1.0.0",
+  "description": "Auth RPC server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xpwnstar/RPC-Authorization-server-Insta-clone.git"
+  },
+  "author": "CHaitanya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xpwnstar/RPC-Authorization-server-Insta-clone/issues"
+  },
+  "homepage": "https://github.com/0xpwnstar/RPC-Authorization-server-Insta-clone#readme"
+}
